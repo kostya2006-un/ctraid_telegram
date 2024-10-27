@@ -1,7 +1,5 @@
 from telegram_bot.schema.user import User
 from telegram_bot.api.server import Server
-
-
 from typing import Dict
 from aiogram import BaseMiddleware, Bot
 from aiogram.fsm.context import FSMContext
